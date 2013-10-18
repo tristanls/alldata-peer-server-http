@@ -4,7 +4,7 @@ _Stability: 1 - [Experimental](https://github.com/tristanls/stability-index#stab
 
 [![NPM version](https://badge.fury.io/js/alldata-peer-server-http.png)](http://npmjs.org/package/alldata-peer-server-http)
 
-Peer Server HTTP module for [AllData](https://github.com/tristanls/alldata), a distributed master-less write-once immutable event store database implementing "All Data" part of [Lambda Architecture](http://www.slideshare.net/nathanmarz/runaway-complexity-in-big-data-and-a-plan-to-stop-it).
+Peer Server HTTP module for [AllData](https://github.com/tristanls/alldata), a distributed master-less append-only immutable event store database implementing "All Data" part of [Lambda Architecture](http://www.slideshare.net/nathanmarz/runaway-complexity-in-big-data-and-a-plan-to-stop-it).
 
 ## Usage
 
